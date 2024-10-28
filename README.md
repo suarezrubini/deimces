@@ -1,2 +1,2 @@
 # deimces
-Desarrollo de entornos interactivos multidispositivo 2º - CESUGA 2023/2024 
+Desarrollo de entornos interactivos multidispositivo 2º - CESUGA 2024/2025 
